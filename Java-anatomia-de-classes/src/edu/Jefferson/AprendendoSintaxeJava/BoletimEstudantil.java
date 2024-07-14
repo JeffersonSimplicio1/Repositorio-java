@@ -1,3 +1,4 @@
+package edu.Jefferson.AprendendoSintaxeJava;
 public class BoletimEstudantil {
     public static void main(String[] args) {
             int MediaFinal = 6;
